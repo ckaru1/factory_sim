@@ -35,10 +35,10 @@ Installation and Setup:
    streamlit run factory_sim.py
 
 Usage Instructions:
-- Open the Streamlit interface in your browser.
-- Adjust machine cycle times, variability, and buffer sizes.
-- Click “Run Simulation” to visualize system performance and efficiency.
-- Review throughput plots and metrics for analysis.
+- Open the Streamlit interface in your browser
+- Adjust machine cycle times, variability, and buffer sizes
+- Click “Run Simulation” to visualize system performance and efficiency
+- Review throughput plots and metrics for analysis
 
 License:
-GPL License
+Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0) — see the license folder for details
