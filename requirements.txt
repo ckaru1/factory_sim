@@ -1,0 +1,7 @@
+# Minimal runtime dependencies for factory_sim
+# Pin versions if you need reproducible installs. To generate exact pins, run:
+#   pip freeze > requirements.txt
+
+streamlit>=1.0
+matplotlib>=3.0
+simpy>=4.0
